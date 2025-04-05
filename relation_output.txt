@@ -1,0 +1,620 @@
+句子：夏五月，莒人入向。
+实体对：({'text': '莒人', 'type': 'Person', 'start': 4, 'end': 6}, {'text': '向', 'type': 'Location', 'start': 7, 'end': 8})
+关系：Move (置信度：0.5546)
+
+句子：春王二月，莒人伐杞，取牟娄。
+实体对：({'text': '莒人', 'type': 'Person', 'start': 5, 'end': 7}, {'text': '杞', 'type': 'Location', 'start': 8, 'end': 9})
+关系：War (置信度：0.7676)
+
+句子：宋公、陈侯、蔡人、卫人伐郑。
+实体对：({'text': '陈侯', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '人伐', 'type': 'Person', 'start': 10, 'end': 12})
+关系：War (置信度：0.7587)
+
+句子：秋，翬帅师会宋公、陈侯、蔡人、卫人伐郑。
+实体对：({'text': '帅', 'type': 'Person', 'start': 3, 'end': 4}, {'text': '、', 'type': 'Person', 'start': 8, 'end': 9})
+关系：War (置信度：0.7809)
+
+句子：九月，卫人杀州吁于濮。
+实体对：({'text': '卫人', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '州吁', 'type': 'Person', 'start': 6, 'end': 8})
+关系：War (置信度：0.7486)
+
+句子：秋，卫师入郕。
+实体对：({'text': '卫师', 'type': 'Person', 'start': 2, 'end': 4}, {'text': '郕', 'type': 'Location', 'start': 5, 'end': 6})
+关系：Move (置信度：0.5646)
+
+句子：夏，翬帅师会齐人、郑人伐宋。
+实体对：({'text': '师', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '人、', 'type': 'Person', 'start': 7, 'end': 9})
+关系：War (置信度：0.7768)
+
+句子：六月壬戌，公败宋师于菅。
+实体对：({'text': '公', 'type': 'Person', 'start': 5, 'end': 6}, {'text': '宋师', 'type': 'Person', 'start': 7, 'end': 9})
+关系：War (置信度：0.7097)
+
+句子：冬十有二月丙午，齐侯、卫侯、郑伯来战于郎。
+实体对：({'text': '侯', 'type': 'Person', 'start': 9, 'end': 10}, {'text': '郑伯', 'type': 'Person', 'start': 14, 'end': 16})
+关系：War (置信度：0.7754)
+
+句子：己巳，及齐侯、宋公、卫侯、燕人战。
+实体对：({'text': '齐', 'type': 'Location', 'start': 4, 'end': 5}, {'text': '公', 'type': 'Person', 'start': 8, 'end': 9})
+关系：War (置信度：0.7800)
+
+句子：冬十有一月，公会宋公、卫侯、陈侯于衰，伐郑。
+实体对：({'text': '卫侯', 'type': 'Person', 'start': 11, 'end': 13}, {'text': '陈侯', 'type': 'Person', 'start': 14, 'end': 16})
+关系：War (置信度：0.7743)
+
+句子：夏四月，公会宋公、卫侯、陈侯、蔡侯伐郑。
+实体对：({'text': '公', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '卫侯', 'type': 'Person', 'start': 9, 'end': 11})
+关系：War (置信度：0.7801)
+
+句子：夏，公子庆父帅师伐于余丘。
+实体对：({'text': '公子庆父', 'type': 'Person', 'start': 2, 'end': 6}, {'text': '帅师伐', 'type': 'Person', 'start': 6, 'end': 9})
+关系：War (置信度：0.7719)
+
+句子：冬，公会齐人、宋人、陈人、蔡人伐卫。
+实体对：({'text': '齐', 'type': 'Location', 'start': 4, 'end': 5}, {'text': '人、', 'type': 'Person', 'start': 5, 'end': 7})
+关系：War (置信度：0.7805)
+
+句子：九月，齐人取 子纠杀之。
+实体对：({'text': '人', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '子纠', 'type': 'Person', 'start': 7, 'end': 9})
+关系：War (置信度：0.7738)
+
+句子：春王正月，公败齐师于长勺。
+实体对：({'text': '公', 'type': 'Person', 'start': 5, 'end': 6}, {'text': '齐', 'type': 'Location', 'start': 7, 'end': 8})
+关系：War (置信度：0.7613)
+
+句子：三月，宋人迁宿。
+实体对：({'text': '宋人', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '宿', 'type': 'Location', 'start': 6, 'end': 7})
+关系：Move (置信度：0.5619)
+
+句子：秋九月，荆败蔡师于莘，以蔡侯献舞归。
+实体对：({'text': '荆', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '蔡', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7807)
+
+句子：冬 十月，齐师灭谭，谭子奔莒。
+实体对：({'text': '齐', 'type': 'Location', 'start': 5, 'end': 6}, {'text': '谭', 'type': 'Location', 'start': 8, 'end': 9})
+关系：War (置信度：0.7804)
+
+句子：春，齐人、陈人、曹人伐宋。
+实体对：({'text': '、', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '曹', 'type': 'Location', 'start': 8, 'end': 9})
+关系：War (置信度：0.7743)
+
+句子：秋，宋人、齐人、邾人伐郳。
+实体对：({'text': '、', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '人伐', 'type': 'Person', 'start': 9, 'end': 11})
+关系：War (置信度：0.7680)
+
+句子：夏，宋人、齐人、卫人伐郑。
+实体对：({'text': '人、', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '人伐', 'type': 'Person', 'start': 9, 'end': 11})
+关系：War (置信度：0.7635)
+
+句子：冬，齐人、宋人、陈人伐我西鄙。
+实体对：({'text': '人', 'type': 'Person', 'start': 3, 'end': 4}, {'text': '人伐', 'type': 'Person', 'start': 9, 'end': 11})
+关系：War (置信度：0.7742)
+
+句子：祭叔来聘。
+实体对：({'text': '祭', 'type': 'Person', 'start': 0, 'end': 1}, {'text': '叔来聘', 'type': 'Person', 'start': 1, 'end': 4})
+关系：Diplomatic Visit (置信度：0.9517)
+
+句子：荆人来聘。
+实体对：({'text': '荆', 'type': 'Person', 'start': 0, 'end': 1}, {'text': '人来聘', 'type': 'Person', 'start': 1, 'end': 4})
+关系：Diplomatic Visit (置信度：0.9517)
+
+句子：萧叔朝公。
+实体对：({'text': '萧叔', 'type': 'Person', 'start': 0, 'end': 2}, {'text': '公', 'type': 'Person', 'start': 3, 'end': 4})
+关系：Diplomatic Visit (置信度：0.9451)
+
+句子：秋，公会宋人、齐人，伐徐。
+实体对：({'text': '公', 'type': 'Person', 'start': 2, 'end': 3}, {'text': '人', 'type': 'Person', 'start': 5, 'end': 6})
+关系：War (置信度：0.7696)
+
+句子：杞伯来朝。
+实体对：({'text': '杞', 'type': 'Location', 'start': 0, 'end': 1}, {'text': '伯', 'type': 'Person', 'start': 1, 'end': 2})
+关系：Diplomatic Visit (置信度：0.9517)
+
+句子：秋，荆伐郑，公会齐人、宋人救郑。
+实体对：({'text': '荆伐', 'type': 'Person', 'start': 2, 'end': 4}, {'text': '公', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7788)
+
+句子：秋七月，齐人降鄣。
+实体对：({'text': '人降', 'type': 'Person', 'start': 5, 'end': 7}, {'text': '鄣', 'type': 'Location', 'start': 7, 'end': 8})
+关系：Move (置信度：0.5584)
+
+句子：春王正月，齐人迁阳。
+实体对：({'text': '齐', 'type': 'Location', 'start': 5, 'end': 6}, {'text': '人', 'type': 'Person', 'start': 6, 'end': 7})
+关系：Move (置信度：0.5546)
+
+句子：十有二月，狄入卫。
+实体对：({'text': '狄', 'type': 'Person', 'start': 5, 'end': 6}, {'text': '卫', 'type': 'Location', 'start': 7, 'end': 8})
+关系：Move (置信度：0.5584)
+
+句子：冬十月壬午，公子友帅师败莒于郦。
+实体对：({'text': '帅', 'type': 'Person', 'start': 9, 'end': 10}, {'text': '莒', 'type': 'Location', 'start': 12, 'end': 13})
+关系：War (置信度：0.7522)
+
+句子：春王正月，公会齐侯、宋公、陈侯、卫侯、郑伯，许男、曹伯侵蔡。
+实体对：({'text': '公', 'type': 'Person', 'start': 5, 'end': 6}, {'text': '齐', 'type': 'Location', 'start': 7, 'end': 8})
+关系：War (置信度：0.7801)
+
+句子：秋，及江人、黄人伐陈。
+实体对：({'text': '人、', 'type': 'Person', 'start': 4, 'end': 6}, {'text': '人伐', 'type': 'Person', 'start': 7, 'end': 9})
+关系：War (置信度：0.7565)
+
+句子：冬十有二月，公孙兹帅师会齐人、宋人、卫人、郑人、许人、曹人侵陈。
+实体对：({'text': '帅', 'type': 'Person', 'start': 9, 'end': 10}, {'text': '人、', 'type': 'Person', 'start': 13, 'end': 15})
+关系：War (置信度：0.7790)
+
+句子：楚人灭弦，弦子奔黄。
+实体对：({'text': '楚人', 'type': 'Person', 'start': 0, 'end': 2}, {'text': '弦', 'type': 'Location', 'start': 3, 'end': 4})
+关系：Move (置信度：0.5622)
+
+句子：夏，公会齐侯、宋公、陈侯、卫侯、曹伯伐郑，围新城。
+实体对：({'text': '公', 'type': 'Person', 'start': 2, 'end': 3}, {'text': '齐侯', 'type': 'Person', 'start': 4, 'end': 6})
+关系：War (置信度：0.7815)
+
+句子：冬，晋里奚克杀其君之子奚齐。
+实体对：({'text': '晋', 'type': 'Person', 'start': 2, 'end': 3}, {'text': '里奚', 'type': 'Person', 'start': 3, 'end': 5})
+关系：War (置信度：0.7639)
+
+句子：狄灭温，温子奔卫。
+实体对：({'text': '温', 'type': 'Location', 'start': 2, 'end': 3}, {'text': '温子', 'type': 'Person', 'start': 4, 'end': 6})
+关系：Move (置信度：0.5608)
+
+句子：秋七月，齐师、曹师伐厉。
+实体对：({'text': '齐', 'type': 'Location', 'start': 4, 'end': 5}, {'text': '曹', 'type': 'Location', 'start': 7, 'end': 8})
+关系：War (置信度：0.7704)
+
+句子：十有一月壬戌，晋侯及秦伯战 于韩，获晋侯。
+实体对：({'text': '秦伯', 'type': 'Person', 'start': 10, 'end': 12}, {'text': '晋侯', 'type': 'Person', 'start': 7, 'end': 9})
+关系：War (置信度：0.7795)
+
+句子：春，齐人、徐人伐英氏。
+实体对：({'text': '人、', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '人伐', 'type': 'Person', 'start': 6, 'end': 8})
+关系：War (置信度：0.7486)
+
+句子：春王正月，宋公、曹伯、卫人、邾人伐齐。
+实体对：({'text': '公', 'type': 'Person', 'start': 6, 'end': 7}, {'text': '曹', 'type': 'Location', 'start': 8, 'end': 9})
+关系：War (置信度：0.7689)
+
+句子：冬，邢人，狄人伐 卫。
+实体对：({'text': '人', 'type': 'Person', 'start': 3, 'end': 4}, {'text': '人伐', 'type': 'Person', 'start': 6, 'end': 8})
+关系：War (置信度：0.7488)
+
+句子：夏，宋公、卫侯、许男、滕子伐郑。
+实体对：({'text': '公', 'type': 'Person', 'start': 3, 'end': 4}, {'text': '卫侯', 'type': 'Person', 'start': 5, 'end': 7})
+关系：War (置信度：0.7789)
+
+句子：冬十有一月己巳朔，宋公及楚人战于泓，宋师败绩。
+实体对：({'text': '公', 'type': 'Person', 'start': 10, 'end': 11}, {'text': '人', 'type': 'Person', 'start': 13, 'end': 14})
+关系：War (置信度：0.7788)
+
+句子：齐人侵我西鄙，公追齐师，至酅，不及。
+实体对：({'text': '人', 'type': 'Person', 'start': 1, 'end': 2}, {'text': '公', 'type': 'Person', 'start': 7, 'end': 8})
+关系：War (置信度：0.7787)
+
+句子：秋，楚人灭夔 ，以夔子归。
+实体对：({'text': '楚人', 'type': 'Person', 'start': 2, 'end': 4}, {'text': '夔', 'type': 'Location', 'start': 5, 'end': 6})
+关系：War (置信度：0.7732)
+
+句子：春，晋侯侵曹，晋侯伐卫。
+实体对：({'text': '晋侯', 'type': 'Person', 'start': 2, 'end': 4}, {'text': '曹', 'type': 'Location', 'start': 5, 'end': 6})
+关系：War (置信度：0.7563)
+
+句子：夏四月己巳，晋侯、齐师、宋师、秦师及 楚人战于城濮，楚师败绩。
+实体对：({'text': '晋侯', 'type': 'Person', 'start': 6, 'end': 8}, {'text': '齐', 'type': 'Location', 'start': 9, 'end': 10})
+关系：War (置信度：0.7679)
+
+句子：秋，卫杀其大夫元咺及公子瑕。
+实体对：({'text': '卫', 'type': 'Person', 'start': 2, 'end': 3}, {'text': '元咺', 'type': 'Person', 'start': 7, 'end': 9})
+关系：War (置信度：0.7749)
+
+句子：春王二月，秦人入滑。
+实体对：({'text': '秦人', 'type': 'Person', 'start': 5, 'end': 7}, {'text': '滑', 'type': 'Location', 'start': 8, 'end': 9})
+关系：Move (置信度：0.5533)
+
+句子：夏四月辛巳，晋人及姜戎败秦师于殽。
+实体对：({'text': '姜戎', 'type': 'Person', 'start': 9, 'end': 11}, {'text': '秦', 'type': 'Location', 'start': 12, 'end': 13})
+关系：War (置信度：0.7646)
+
+句子：春王二月甲子，晋侯及秦师战于彭衙，秦师败绩。
+实体对：({'text': '秦', 'type': 'Location', 'start': 10, 'end': 11}, {'text': '彭', 'type': 'Location', 'start': 14, 'end': 15})
+关系：War (置信度：0.7779)
+
+句子：戊子，晋人及秦人战于令狐。
+实体对：({'text': '人', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '秦人', 'type': 'Person', 'start': 6, 'end': 8})
+关系：War (置信度：0.7749)
+
+句子：春王正月，郕伯来奔。
+实体对：({'text': '郕', 'type': 'Location', 'start': 5, 'end': 6}, {'text': '伯', 'type': 'Person', 'start': 6, 'end': 7})
+关系：Move (置信度：0.5546)
+
+句子：杞伯来朝。
+实体对：({'text': '杞', 'type': 'Location', 'start': 0, 'end': 1}, {'text': '伯', 'type': 'Person', 'start': 1, 'end': 2})
+关系：Diplomatic Visit (置信度：0.9517)
+
+句子：邾人伐我南鄙，叔彭生帅师伐邾。
+实体对：({'text': '人伐', 'type': 'Person', 'start': 1, 'end': 3}, {'text': '叔彭生', 'type': 'Person', 'start': 7, 'end': 10})
+关系：War (置信度：0.7739)
+
+句子：齐侯侵我西鄙，遂伐曹入期郛。
+实体对：({'text': '侯', 'type': 'Person', 'start': 1, 'end': 2}, {'text': '曹', 'type': 'Location', 'start': 9, 'end': 10})
+关系：War (置信度：0.7122)
+
+句子：宋公、陈侯、卫侯、曹伯会晋师于棐林，伐郑。
+实体对：({'text': '陈侯', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '卫侯', 'type': 'Person', 'start': 6, 'end': 8})
+关系：War (置信度：0.7814)
+
+句子：春王二月壬子，宋华元帅师及郑公子归生帅师，战于大棘。
+实体对：({'text': '华元', 'type': 'Person', 'start': 8, 'end': 10}, {'text': '公子归生', 'type': 'Person', 'start': 14, 'end': 18})
+关系：War (置信度：0.7768)
+
+句子：春，晋赵盾、卫孙免侵陈。
+实体对：({'text': '赵盾', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '卫', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7686)
+
+句子：公孙归父帅师伐邾，取绎。
+实体对：({'text': '帅', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '邾', 'type': 'Location', 'start': 7, 'end': 8})
+关系：War (置信度：0.7704)
+
+句子：冬十月，楚人杀陈夏征舒。
+实体对：({'text': '楚人杀', 'type': 'Person', 'start': 4, 'end': 7}, {'text': '征舒', 'type': 'Person', 'start': 9, 'end': 11})
+关系：War (置信度：0.7531)
+
+句子：丁亥，楚子入陈。
+实体对：({'text': '楚子', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '陈', 'type': 'Location', 'start': 6, 'end': 7})
+关系：Move (置信度：0.5619)
+
+句子：夏六月乙卯，晋荀林父帅师及楚子战于邲，晋师败绩。
+实体对：({'text': '晋', 'type': 'Person', 'start': 6, 'end': 7}, {'text': '荀林父', 'type': 'Person', 'start': 7, 'end': 10})
+关系：War (置信度：0.7762)
+
+句子：六月癸卯，晋师灭赤狄潞氏，以潞子婴儿归。
+实体对：({'text': '晋师', 'type': 'Person', 'start': 5, 'end': 7}, {'text': '狄', 'type': 'Person', 'start': 9, 'end': 10})
+关系：War (置信度：0.7742)
+
+句子：晋人灭赤狄甲氏及留吁。
+实体对：({'text': '赤狄', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '氏', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7486)
+
+句子：春，晋侯、卫世子臧伐齐。
+实体对：({'text': '晋侯', 'type': 'Person', 'start': 2, 'end': 4}, {'text': '卫', 'type': 'Person', 'start': 5, 'end': 6})
+关系：War (置信度：0.7563)
+
+句子：秋七月，邾人伐鄫子于鄫。
+实体对：({'text': '邾人', 'type': 'Person', 'start': 4, 'end': 6}, {'text': '鄫', 'type': 'Location', 'start': 7, 'end': 8})
+关系：War (置信度：0.7704)
+
+句子：夏四月丙戌，卫孙良夫帅师及齐师战于新筑，卫师败绩。
+实体对：({'text': '孙良夫', 'type': 'Person', 'start': 7, 'end': 10}, {'text': '卫', 'type': 'Location', 'start': 6, 'end': 7})
+关系：War (置信度：0.7790)
+
+句子：六月癸酉，季孙行父、臧孙许、叔孙侨如、公孙婴齐帅师会晋郤克、卫孙良夫 、曹公子首及齐侯战于鞍，齐师败绩。
+实体对：({'text': '臧孙许', 'type': 'Person', 'start': 10, 'end': 13}, {'text': '叔孙侨如', 'type': 'Person', 'start': 14, 'end': 18})
+关系：War (置信度：0.7797)
+
+句子：春王正月，公会晋侯、宋公、卫侯、曹伯伐郑。
+实体对：({'text': '公', 'type': 'Person', 'start': 5, 'end': 6}, {'text': '晋侯', 'type': 'Person', 'start': 7, 'end': 9})
+关系：War (置信度：0.7793)
+
+句子：郑公子去疾 帅师伐许。
+实体对：({'text': '公子去疾', 'type': 'Person', 'start': 1, 'end': 5}, {'text': '师伐', 'type': 'Person', 'start': 7, 'end': 9})
+关系：War (置信度：0.7408)
+
+句子：晋郤克、卫孙良夫伐啬咎如。
+实体对：({'text': '卫', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '孙良夫', 'type': 'Person', 'start': 5, 'end': 8})
+关系：War (置信度：0.7733)
+
+句子：杞伯来朝。
+实体对：({'text': '杞', 'type': 'Location', 'start': 0, 'end': 1}, {'text': '伯', 'type': 'Person', 'start': 1, 'end': 2})
+关系：Diplomatic Visit (置信度：0.9517)
+
+句子：取鄟卫孙良夫帅师侵宋。
+实体对：({'text': '孙良夫', 'type': 'Person', 'start': 3, 'end': 6}, {'text': '帅师侵', 'type': 'Person', 'start': 6, 'end': 9})
+关系：War (置信度：0.7486)
+
+句子：秋，仲孙蔑、叔孙侨如帅师侵宋。
+实体对：({'text': '仲孙蔑、', 'type': 'Person', 'start': 2, 'end': 6}, {'text': '叔孙侨如', 'type': 'Person', 'start': 6, 'end': 10})
+关系：War (置信度：0.7775)
+
+句子：秋，楚公子婴齐帅师伐郑。
+实体对：({'text': '公子婴齐', 'type': 'Person', 'start': 3, 'end': 7}, {'text': '帅', 'type': 'Person', 'start': 7, 'end': 8})
+关系：War (置信度：0.7677)
+
+句子：春，卫侯之弟黑背帅师侵郑。
+实体对：({'text': '卫侯', 'type': 'Person', 'start': 2, 'end': 4}, {'text': '背', 'type': 'Person', 'start': 7, 'end': 8})
+关系：War (置信度：0.7711)
+
+句子：五月，公会晋侯、齐侯、宋公、卫侯、曹伯伐郑。
+实体对：({'text': '公', 'type': 'Person', 'start': 3, 'end': 4}, {'text': '侯', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7815)
+
+句子：春，周公出奔晋。
+实体对：({'text': '周', 'type': 'Person', 'start': 2, 'end': 3}, {'text': '晋', 'type': 'Location', 'start': 6, 'end': 7})
+关系：Move (置信度：0.5624)
+
+句子：夏五月，公自京师，遂会晋侯、齐侯、宋公、卫侯、郑伯、曹伯、邾人、滕人伐秦。
+实体对：({'text': '公', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '侯', 'type': 'Person', 'start': 12, 'end': 13})
+关系：War (置信度：0.7812)
+
+句子：秋七月， 公至自伐秦。
+实体对：({'text': '公', 'type': 'Person', 'start': 5, 'end': 6}, {'text': '秦', 'type': 'Location', 'start': 9, 'end': 10})
+关系：War (置信度：0.7215)
+
+句子：甲午晦，晋侯及楚子、郑伯战于鄢陵。
+实体对：({'text': '晋侯', 'type': 'Person', 'start': 4, 'end': 6}, {'text': '楚子', 'type': 'Person', 'start': 7, 'end': 9})
+关系：War (置信度：0.7802)
+
+句子：公会尹子，晋侯、齐国佐、邾人伐郑。
+实体对：({'text': '尹子', 'type': 'Person', 'start': 2, 'end': 4}, {'text': '晋侯', 'type': 'Person', 'start': 5, 'end': 7})
+关系：War (置信度：0.7793)
+
+句子：夏，公会尹子、单子、晋侯、齐侯、宋公、卫侯、曹伯、邾人伐郑。
+实体对：({'text': '尹子', 'type': 'Person', 'start': 4, 'end': 6}, {'text': '单子', 'type': 'Person', 'start': 7, 'end': 9})
+关系：War (置信度：0.7819)
+
+句子：齐高无咎出奔莒。
+实体对：({'text': '高无咎', 'type': 'Person', 'start': 1, 'end': 4}, {'text': '莒', 'type': 'Location', 'start': 6, 'end': 7})
+关系：Move (置信度：0.5633)
+
+句子：冬，公会单子、晋侯、宋公、卫侯、曹伯、齐人、邾人伐郑。
+实体对：({'text': '单子', 'type': 'Person', 'start': 4, 'end': 6}, {'text': '晋侯', 'type': 'Person', 'start': 7, 'end': 9})
+关系：War (置信度：0.7819)
+
+句子：晋杀其大夫郤锜、郤犨、郤至。
+实体对：({'text': '郤锜', 'type': 'Person', 'start': 5, 'end': 7}, {'text': '郤', 'type': 'Person', 'start': 5, 'end': 6})
+关系：War (置信度：0.7683)
+
+句子：宋鱼石复入于彭城。
+实体对：({'text': '石', 'type': 'Person', 'start': 2, 'end': 3}, {'text': '彭', 'type': 'Location', 'start': 6, 'end': 7})
+关系：Move (置信度：0.5583)
+
+句子：夏，晋韩厥帅师伐郑，仲孙蔑会齐崔杼、曹人、邾人、 杞人次于鄫。
+实体对：({'text': '韩厥', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '帅', 'type': 'Person', 'start': 5, 'end': 6})
+关系：War (置信度：0.7818)
+
+句子：秋，楚公子壬夫帅师侵宋。
+实体对：({'text': '公子壬夫', 'type': 'Person', 'start': 3, 'end': 7}, {'text': '帅师侵', 'type': 'Person', 'start': 7, 'end': 10})
+关系：War (置信度：0.7677)
+
+句子：春，楚公子婴齐帅师伐吴。
+实体对：({'text': '公子婴齐', 'type': 'Person', 'start': 3, 'end': 7}, {'text': '帅师伐', 'type': 'Person', 'start': 7, 'end': 10})
+关系：War (置信度：0.7677)
+
+句子：冬，楚公子贞帅师伐郑。
+实体对：({'text': '公子贞', 'type': 'Person', 'start': 3, 'end': 6}, {'text': '帅', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7486)
+
+句子：冬，公会晋侯、宋公、卫侯、曹伯、莒子、邾子、滕子、薛伯、杞伯， 小邾子、齐世子光伐郑。
+实体对：({'text': '公', 'type': 'Person', 'start': 2, 'end': 3}, {'text': '晋侯', 'type': 'Person', 'start': 4, 'end': 6})
+关系：War (置信度：0.7816)
+
+句子：楚公子贞、郑公 孙辄帅师伐宋。
+实体对：({'text': '公子贞、', 'type': 'Person', 'start': 1, 'end': 5}, {'text': '伐', 'type': 'Person', 'start': 12, 'end': 13})
+关系：War (置信度：0.7624)
+
+句子：公会晋侯、宋公、卫侯、曹伯、莒子、邾子、齐世子光、滕子、薛伯、杞伯、小邾子伐郑。
+实体对：({'text': '晋侯', 'type': 'Person', 'start': 2, 'end': 4}, {'text': '卫侯', 'type': 'Person', 'start': 8, 'end': 10})
+关系：War (置信度：0.7813)
+
+句子：冬，盗杀郑公子騑、公子发、 公孙辄。
+实体对：({'text': '郑', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '公子騑、', 'type': 'Person', 'start': 5, 'end': 9})
+关系：War (置信度：0.7797)
+
+句子：公会晋侯、宋公、卫侯、曹伯、齐世子光、莒子、邾子、滕子、薛伯、杞伯 、小邾子伐郑。
+实体对：({'text': '晋侯', 'type': 'Person', 'start': 2, 'end': 4}, {'text': '卫侯', 'type': 'Person', 'start': 8, 'end': 10})
+关系：War (置信度：0.7812)
+
+句子：公会晋侯、宋公、卫侯、曹伯、齐世子光、莒子、邾子、滕子、薛伯、杞伯、小邾子伐郑， 会于萧鱼。
+实体对：({'text': '晋侯', 'type': 'Person', 'start': 2, 'end': 4}, {'text': '卫侯', 'type': 'Person', 'start': 8, 'end': 10})
+关系：War (置信度：0.7813)
+
+句子：冬，楚公子贞帅师侵宋。
+实体对：({'text': '公子贞', 'type': 'Person', 'start': 3, 'end': 6}, {'text': '帅师侵', 'type': 'Person', 'start': 6, 'end': 9})
+关系：War (置信度：0.7486)
+
+句子：夏 四月，叔孙豹会晋荀偃、齐人、宋人、卫北宫括、郑公孙虿、曹人、莒人、邾人、滕人、薛人、杞人、小邾人伐秦。
+实体对：({'text': '叔孙豹', 'type': 'Person', 'start': 5, 'end': 8}, {'text': '偃', 'type': 'Person', 'start': 11, 'end': 12})
+关系：War (置信度：0.7820)
+
+句子：己未，卫侯出奔齐。
+实体对：({'text': '卫侯', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '齐', 'type': 'Location', 'start': 7, 'end': 8})
+关系：Move (置信度：0.5559)
+
+句子：秋，楚公子贞帅 师伐吴。
+实体对：({'text': '公子贞', 'type': 'Person', 'start': 3, 'end': 6}, {'text': '吴', 'type': 'Location', 'start': 10, 'end': 11})
+关系：War (置信度：0.7318)
+
+句子：叔老会郑伯、晋荀偃、卫宁殖、宋人伐许。
+实体对：({'text': '郑伯', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '晋', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7809)
+
+句子：晋人执邾子，公至自伐齐。
+实体对：({'text': '子', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '公', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7709)
+
+句子：夏，卫孙林父帅师伐齐。
+实体对：({'text': '孙林父', 'type': 'Person', 'start': 3, 'end': 6}, {'text': '帅', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7486)
+
+句子：晋士 匄帅师侵齐，至谷，闻齐侯卒，乃还。
+实体对：({'text': '谷', 'type': 'Location', 'start': 10, 'end': 11}, {'text': '齐', 'type': 'Location', 'start': 7, 'end': 8})
+关系：War (置信度：0.7815)
+
+句子：邾庶其以漆、闾丘来奔。
+实体对：({'text': '邾庶其', 'type': 'Person', 'start': 0, 'end': 3}, {'text': '漆', 'type': 'Location', 'start': 4, 'end': 5})
+关系：Move (置信度：0.5590)
+
+句子：曹伯来朝。
+实体对：({'text': '曹', 'type': 'Location', 'start': 0, 'end': 1}, {'text': '伯', 'type': 'Person', 'start': 1, 'end': 2})
+关系：Diplomatic Visit (置信度：0.9517)
+
+句子：冬，楚子、蔡侯、陈侯、许男伐郑。
+实体对：({'text': '楚子', 'type': 'Person', 'start': 2, 'end': 4}, {'text': '蔡侯', 'type': 'Person', 'start': 5, 'end': 7})
+关系：War (置信度：0.7783)
+
+句子：春，齐崔杼帅师伐我北鄙。
+实体对：({'text': '杼', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '帅', 'type': 'Person', 'start': 5, 'end': 6})
+关系：War (置信度：0.7676)
+
+句子：冬，郑公孙夏帅师伐陈。
+实体对：({'text': '孙夏', 'type': 'Person', 'start': 4, 'end': 6}, {'text': '帅', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7572)
+
+句子：十有二月，吴子遏伐楚，门于巢 ，卒。
+实体对：({'text': '吴子遏', 'type': 'Person', 'start': 5, 'end': 8}, {'text': '楚', 'type': 'Location', 'start': 9, 'end': 10})
+关系：War (置信度：0.7718)
+
+句子：冬，楚子、蔡侯、陈侯伐郑。
+实体对：({'text': '楚子', 'type': 'Person', 'start': 2, 'end': 4}, {'text': '陈侯', 'type': 'Person', 'start': 8, 'end': 10})
+关系：War (置信度：0.7700)
+
+句子：卫侯之弟鱄出奔晋。
+实体对：({'text': '卫侯', 'type': 'Person', 'start': 0, 'end': 2}, {'text': '晋', 'type': 'Location', 'start': 7, 'end': 8})
+关系：Move (置信度：0.5607)
+
+句子：秋，莒去疾自齐入于莒。
+实体对：({'text': '疾', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '莒', 'type': 'Location', 'start': 2, 'end': 3})
+关系：Move (置信度：0.5507)
+
+句子：莒展舆出奔吴。
+实体对：({'text': '展舆', 'type': 'Person', 'start': 1, 'end': 3}, {'text': '吴', 'type': 'Location', 'start': 5, 'end': 6})
+关系：Move (置信度：0.5630)
+
+句子：北燕伯款出奔齐。
+实体对：({'text': '燕伯款', 'type': 'Person', 'start': 1, 'end': 4}, {'text': '齐', 'type': 'Location', 'start': 6, 'end': 7})
+关系：Move (置信度：0.5633)
+
+句子：秋七月，楚子 、蔡侯、陈侯、许男、顿子、胡子、沈子、淮夷伐吴，执齐庆封，杀之。
+实体对：({'text': '楚子', 'type': 'Person', 'start': 4, 'end': 6}, {'text': '蔡侯', 'type': 'Person', 'start': 8, 'end': 10})
+关系：War (置信度：0.7816)
+
+句子：戊辰，叔弓帅师败莒师于蚡泉。
+实体对：({'text': '叔弓', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '师', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7764)
+
+句子：冬，楚子、 蔡侯、陈侯、许男、顿子、沈子、徐人、越人伐吴。
+实体对：({'text': '楚子、', 'type': 'Person', 'start': 2, 'end': 5}, {'text': '蔡侯、', 'type': 'Person', 'start': 6, 'end': 9})
+关系：War (置信度：0.7818)
+
+句子：春，陈侯之弟招杀陈世子偃师，夏四月辛丑，陈侯溺卒。
+实体对：({'text': '陈侯', 'type': 'Person', 'start': 2, 'end': 4}, {'text': '陈', 'type': 'Person', 'start': 2, 'end': 3})
+关系：War (置信度：0.7800)
+
+句子：大雩 ，冬十月壬午，楚师灭陈。
+实体对：({'text': '楚师', 'type': 'Person', 'start': 10, 'end': 12}, {'text': '陈', 'type': 'Location', 'start': 13, 'end': 14})
+关系：War (置信度：0.7724)
+
+句子：夏，齐栾施来奔。
+实体对：({'text': '齐', 'type': 'Location', 'start': 2, 'end': 3}, {'text': '施', 'type': 'Person', 'start': 4, 'end': 5})
+关系：Move (置信度：0.5638)
+
+句子：秋七月，季孙意如、叔弓、仲孙玃帅师伐莒。
+实体对：({'text': '季孙意如', 'type': 'Person', 'start': 4, 'end': 8}, {'text': '叔弓、', 'type': 'Person', 'start': 9, 'end': 12})
+关系：War (置信度：0.7801)
+
+句子：夏四月丁巳，楚子虔诱蔡侯般杀之于申。
+实体对：({'text': '蔡侯般', 'type': 'Person', 'start': 10, 'end': 13}, {'text': '申', 'type': 'Location', 'start': 16, 'end': 17})
+关系：War (置信度：0.7563)
+
+句子：夏四月，楚公子比自晋归于楚，杀其君虔于乾溪。
+实体对：({'text': '楚', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '公子比', 'type': 'Person', 'start': 5, 'end': 8})
+关系：War (置信度：0.7815)
+
+句子：秋，晋荀吴帅师伐鲜虞。
+实体对：({'text': '荀吴', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '鲜', 'type': 'Location', 'start': 8, 'end': 9})
+关系：War (置信度：0.7419)
+
+句子：八月，晋荀吴帅师灭陆浑之戎。
+实体对：({'text': '荀吴', 'type': 'Person', 'start': 4, 'end': 6}, {'text': '帅', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7771)
+
+句子：六月，邾人入鄅。
+实体对：({'text': '邾人', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '鄅', 'type': 'Location', 'start': 6, 'end': 7})
+关系：Move (置信度：0.5619)
+
+句子：冬十有二月，吴灭徐，徐子章羽奔楚。
+实体对：({'text': '吴', 'type': 'Person', 'start': 6, 'end': 7}, {'text': '徐', 'type': 'Location', 'start': 8, 'end': 9})
+关系：War (置信度：0.7637)
+
+句子：三月，公会刘子、晋侯、宋公、蔡侯、卫侯、陈子、郑伯、许男、曹伯、莒子、邾子、顿子、胡子、滕子、薛伯、杞伯、小邾子 、齐国夏于召陵，侵楚。
+实体对：({'text': '公', 'type': 'Person', 'start': 3, 'end': 4}, {'text': '子', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7837)
+
+句子：夏四月庚辰，蔡公孙姓帅师灭沈，以沈子嘉归，杀之。
+实体对：({'text': '公孙姓', 'type': 'Person', 'start': 7, 'end': 10}, {'text': '子嘉', 'type': 'Person', 'start': 17, 'end': 19})
+关系：War (置信度：0.7499)
+
+句子：晋士鞅、卫孔围帅师伐鲜虞。
+实体对：({'text': '卫', 'type': 'Person', 'start': 4, 'end': 5}, {'text': '围', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7749)
+
+句子：冬十有一月庚午，蔡侯以吴子及楚人战于柏举，楚师败绩。
+实体对：({'text': '吴子', 'type': 'Person', 'start': 11, 'end': 13}, {'text': '楚人', 'type': 'Person', 'start': 14, 'end': 16})
+关系：War (置信度：0.7773)
+
+句子：春王正月癸亥，郑游速帅师灭许，以许男斯归。
+实体对：({'text': '速', 'type': 'Person', 'start': 9, 'end': 10}, {'text': '男', 'type': 'Person', 'start': 17, 'end': 18})
+关系：War (置信度：0.7519)
+
+句子：齐人执卫行人北宫结以侵卫。
+实体对：({'text': '人', 'type': 'Person', 'start': 1, 'end': 2}, {'text': '宫结', 'type': 'Person', 'start': 7, 'end': 9})
+关系：War (置信度：0.7601)
+
+句子：夏，齐国夏帅师伐我西鄙。
+实体对：({'text': '国夏', 'type': 'Person', 'start': 3, 'end': 5}, {'text': '师伐', 'type': 'Person', 'start': 6, 'end': 8})
+关系：War (置信度：0.7686)
+
+句子：宋乐大心出奔曹。
+实体对：({'text': '心', 'type': 'Person', 'start': 3, 'end': 4}, {'text': '曹', 'type': 'Location', 'start': 6, 'end': 7})
+关系：Move (置信度：0.5619)
+
+句子：二月辛巳，楚公子结、陈公孙佗人帅师灭顿，以顿子牂归。
+实体对：({'text': '楚', 'type': 'Person', 'start': 5, 'end': 6}, {'text': '公子结、', 'type': 'Person', 'start': 6, 'end': 10})
+关系：War (置信度：0.7806)
+
+句子：五月，于越败吴于檇李。
+实体对：({'text': '越', 'type': 'Location', 'start': 4, 'end': 5}, {'text': '吴', 'type': 'Location', 'start': 6, 'end': 7})
+关系：War (置信度：0.7572)
+
+句子：宋公之弟辰自萧来奔。
+实体对：({'text': '宋', 'type': 'Person', 'start': 0, 'end': 1}, {'text': '萧', 'type': 'Location', 'start': 6, 'end': 7})
+关系：Move (置信度：0.5609)
+
+句子：二月辛丑，楚子灭胡，以胡子豹归。
+实体对：({'text': '楚子', 'type': 'Person', 'start': 5, 'end': 7}, {'text': '胡', 'type': 'Location', 'start': 8, 'end': 9})
+关系：War (置信度：0.7738)
+
+句子：冬，仲孙何忌帅师伐邾。
+实体对：({'text': '仲孙何忌', 'type': 'Person', 'start': 2, 'end': 6}, {'text': '帅', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7186)
+
+句子：春王二月，季孙斯、叔孙州仇、仲孙何忌帅师伐邾，取漷东田及沂西田。
+实体对：({'text': '叔孙州仇', 'type': 'Person', 'start': 9, 'end': 13}, {'text': '仲孙何忌', 'type': 'Person', 'start': 14, 'end': 18})
+关系：War (置信度：0.7793)
+
+句子：秋八月甲戌，晋赵鞅帅师及郑罕达帅师战于铁，郑师败绩。
+实体对：({'text': '晋', 'type': 'Person', 'start': 6, 'end': 7}, {'text': '赵鞅', 'type': 'Person', 'start': 7, 'end': 9})
+关系：War (置信度：0.7767)
+
+句子：夏，齐国夏及高张来奔。
+实体对：({'text': '齐', 'type': 'Location', 'start': 2, 'end': 3}, {'text': '夏', 'type': 'Person', 'start': 0, 'end': 1})
+关系：Move (置信度：0.5610)
+
+句子：冬，仲孙何忌 帅师伐邾。
+实体对：({'text': '仲孙何忌', 'type': 'Person', 'start': 2, 'end': 6}, {'text': '师伐', 'type': 'Person', 'start': 8, 'end': 10})
+关系：War (置信度：0.7712)
+
+句子：冬，楚公子结帅师伐陈。
+实体对：({'text': '公子结', 'type': 'Person', 'start': 3, 'end': 6}, {'text': '帅', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7486)
+
+句子：甲戌，齐国书帅师及吴战于艾陵，齐师败绩，获齐国书。
+实体对：({'text': '国书', 'type': 'Person', 'start': 4, 'end': 6}, {'text': '帅', 'type': 'Person', 'start': 6, 'end': 7})
+关系：War (置信度：0.7819)
+
+句子：宋向魋入于曹以叛。
+实体对：({'text': '魋', 'type': 'Person', 'start': 2, 'end': 3}, {'text': '曹', 'type': 'Location', 'start': 5, 'end': 6})
+关系：Move (置信度：0.5598)
+
+句子：卫公孟彄出奔齐。
+实体对：({'text': '公孟彄', 'type': 'Person', 'start': 1, 'end': 4}, {'text': '齐', 'type': 'Location', 'start': 6, 'end': 7})
+关系：Move (置信度：0.5633)
+

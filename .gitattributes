@@ -1,0 +1,2 @@
+guwen_ner_char/** filter=lfs diff=lfs merge=lfs -text
+guwenner/** filter=lfs diff=lfs merge=lfs -text
